@@ -1,5 +1,5 @@
 Applicant_ID,Applicant_Income,Coapplicant_Income,Employment_Status,Age,Marital_Status,Dependents,Credit_Score,Existing_Loans,DTI_Ratio,Savings,Collateral_Value,Loan_Amount,Loan_Term,Loan_Purpose,Property_Area,Education_Level,Gender,Employer_Category,Loan_Approved
-1.0,17795.0,1387.0,Salaried,51.0,Married,0.0,637.0,4.0,0.53,19403.0,45638.0,16619.0,84.0,Personal,Urban,Not Graduate,Female,Private,No
+1.0,17785.0,1387.0,Salaried,51.0,Married,0.0,637.0,4.0,0.53,19403.0,45638.0,16619.0,84.0,Personal,Urban,Not Graduate,Female,Private,No
 2.0,2860.0,2679.0,Salaried,46.0,Married,3.0,621.0,2.0,0.3,2580.0,49272.0,38687.0,,Car,Semiurban,Graduate,,Private,No
 3.0,7390.0,2106.0,Salaried,25.0,Single,2.0,674.0,4.0,0.2,13844.0,6908.0,27943.0,72.0,,Urban,,Female,Government,Yes
 4.0,13964.0,8173.0,Salaried,40.0,Married,2.0,579.0,3.0,0.31,9553.0,10844.0,27819.0,60.0,Business,Rural,Graduate,Female,Government,No
